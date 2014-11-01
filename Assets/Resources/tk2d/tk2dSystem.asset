@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72fb5480ea3af70458d43df8464b132e, type: 3}
+  m_Name: tk2dSystem
+  m_EditorClassIdentifier: 
+  allResourceEntries:
+  - resourceGUID: 8a2722825b2fdd04d9d04c89d12b3faf
+    assetName: 
+    assetGUID: 1171100cdc2b1ef418485cf2ccd70436
+  - resourceGUID: 83671ff2744fce2428907bdce87ecff2
+    assetName: 
+    assetGUID: 492c338c13a64f948b2b65f29c93fa55
+  - resourceGUID: c48ed58bfb5de834db7f913241f6f269
+    assetName: 
+    assetGUID: fc0171073a4c5b044872583aa64de2ed
+  - resourceGUID: 2f4f7a193213f91478ec7c84f2edb93a
+    assetName: StoryGadgets@1x
+    assetGUID: afe9c633a1831fe4982ec0a7275e83d8
+  - resourceGUID: 61e1baf9a55d91f4bab7fa196c7b9436
+    assetName: CrossMenuGUI@1x
+    assetGUID: a0a3680cf8638124087bd3490ec7ec5b
+  - resourceGUID: 72e716af007e22e4bbedb9c37b21d1ad
+    assetName: LoseGUI@1x
+    assetGUID: e327e29f6f99d2548af20b796ad4fa8b
+  - resourceGUID: f6f6aa4c94238b842945021abd2b37e7
+    assetName: WinGUI@1x
+    assetGUID: 9ffb8bca31b3ed84ea7c1a1ae7d6573e
+  - resourceGUID: 44ea5752f1a8e5e40943ce4c4a35fb62
+    assetName: 
+    assetGUID: 7d3be6bff4e05b642b60aa4b56f5abc1
+  - resourceGUID: 5e3c74de69b521943b6db0c3e8bdebf4
+    assetName: 
+    assetGUID: 45dedfe0a3992524f9f6ec048db7d414
+  - resourceGUID: aaefce6668d714a4aa6b439ed260f39a
+    assetName: 
+    assetGUID: 7665dd6f105b4394b9f9ffcc7c59b9bb
+  - resourceGUID: ed6bd39108428db4bb5b9bfae8b38f0c
+    assetName: CavemanWobble@1x
+    assetGUID: 0bb43a36a5839a7429408952f046f941
+  - resourceGUID: 63180cf1351faf14b8aa7541994d38b4
+    assetName: FutureWobble@1x
+    assetGUID: 9a73c5b2017321b4bb39a778f0dc09ec
+  - resourceGUID: c9e07896074b13f4380acd2e91d9d919
+    assetName: RomanWobble@1x
+    assetGUID: a68054a291f4c404982501483d6d291f
+  - resourceGUID: ab8da40798203964f9e1bb53c55ea383
+    assetName: IndustrialWobble@1x
+    assetGUID: b04c902b11137d344b1356de724d9ce9
+  - resourceGUID: c130625360938d44a96c1961779d3484
+    assetName: MedievalWobble@1x
+    assetGUID: acc1b43614dde0a4abeed57d83108d6e
+  - resourceGUID: 2e3fa2c53c0f12e44b788d276387df81
+    assetName: ModernWobble@1x
+    assetGUID: 2b585fd05b2218843a5fb111b38c378c
+  - resourceGUID: db65c1a3e2921a5409645b4e13bc1b87
+    assetName: 
+    assetGUID: e41506dca16375a40b7001c9e6e7e426
+  - resourceGUID: 40bf635a8007b76409fc7a090b4aae43
+    assetName: 
+    assetGUID: 22ce46fc5d8d1f74a856d73b3c317ec5
+  - resourceGUID: 7f29524b3dc3c7745a459415bdb05c83
+    assetName: 
+    assetGUID: 94df286d57a9f9a4abe622c205444ae2
+  - resourceGUID: 4c2064d74a1baaf4d8684c896ba2f92c
+    assetName: MedievalDecorations@1x
+    assetGUID: 9ae4973310c91ff409908ca4ed428b94
+  - resourceGUID: e65533372e07f294bbeaaa5476fbb314
+    assetName: 
+    assetGUID: 40119bce27827c14c87a5259596c965f
+  - resourceGUID: 23fc8b565b7b1ab4f962a1ea6a16a01c
+    assetName: RomanDecorations@1x
+    assetGUID: 269d2a927ca1b204996eeb630325e12b
+  - resourceGUID: 72bfad126bcccd345bbbcb287d657f03
+    assetName: AnimatedGadgets@1x
+    assetGUID: 4c7ab886d992aa946ad04843759a596f
+  - resourceGUID: 07cc9799addfbb94282110940bf464b2
+    assetName: AnimatedGadgets@2x
+    assetGUID: ad3f9bc288e684744beb0202c2b87dae
+  - resourceGUID: 45b8761474a6b0e429a917d0619af323
+    assetName: InitialStory@1x
+    assetGUID: 4bb9c9456278f5f4aa0b74c5cd0b35ef
+  - resourceGUID: 4faa916de3a6ab647900874e9f13e2a6
+    assetName: 
+    assetGUID: d4506a31a097cb94589a80648c05ab2c
+  - resourceGUID: 8feebb56d0db69d4eb1e114be7d4c72b
+    assetName: Fountain@1x
+    assetGUID: 4974ccec9bd7f8e4c98be38696931f36
+  - resourceGUID: 4bad5811186e5474c8fedde9c516e3cf
+    assetName: 
+    assetGUID: 9785e2d94e9b8884287b903e8fdc21e2

@@ -1,0 +1,2154 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400000}
+  - 114: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: LettersOnlydata
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 023bfc31841d2f24ba7eb00462467382, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 2
+  lineHeight: .651041627
+  chars:
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: -.00651041651, y: .00651041651, z: 0}
+    p1: {x: .013020833, y: 0, z: 0}
+    uv0: {x: .9765625, y: 1, z: 0}
+    uv1: {x: .982421875, y: .998046875, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .143229157
+    channel: 0
+  - p0: {x: .01953125, y: .5078125, z: 0}
+    p1: {x: .15625, y: .123697929, z: 0}
+    uv0: {x: .171875, y: .49609375, z: 0}
+    uv1: {x: .212890625, y: .380859375, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .17578125
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: .013020833, y: .25390625, z: 0}
+    p1: {x: .15625, y: .123697922, z: 0}
+    uv0: {x: .927734375, y: .525390625, z: 0}
+    uv1: {x: .970703125, y: .486328125, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .169270828
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: -.00651041651, y: .514322877, z: 0}
+    p1: {x: .475260407, y: .123697884, z: 0}
+    uv0: {x: .75390625, y: 1, z: 0}
+    uv1: {x: .8984375, y: .8828125, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .46875
+    channel: 0
+  - p0: {x: 0, y: .5078125, z: 0}
+    p1: {x: .403645813, y: .130208343, z: 0}
+    uv0: {x: .21484375, y: .49609375, z: 0}
+    uv1: {x: .3359375, y: .3828125, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .41015625
+    channel: 0
+  - p0: {x: .00651041651, y: .514322877, z: 0}
+    p1: {x: .403645813, y: .123697884, z: 0}
+    uv0: {x: .390625, y: .759765625, z: 0}
+    uv1: {x: .509765625, y: .642578125, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .41015625
+    channel: 0
+  - p0: {x: 0, y: .514322877, z: 0}
+    p1: {x: .44921875, y: .130208299, z: 0}
+    uv0: {x: .40234375, y: .640625, z: 0}
+    uv1: {x: .537109375, y: .525390625, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .455729157
+    channel: 0
+  - p0: {x: 0, y: .514322877, z: 0}
+    p1: {x: .390625, y: .123697884, z: 0}
+    uv0: {x: .51171875, y: .76171875, z: 0}
+    uv1: {x: .62890625, y: .64453125, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .390625
+    channel: 0
+  - p0: {x: .00651041651, y: .514322877, z: 0}
+    p1: {x: .384114563, y: .123697884, z: 0}
+    uv0: {x: .75, y: .76171875, z: 0}
+    uv1: {x: .86328125, y: .64453125, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .377604157
+    channel: 0
+  - p0: {x: .00651041651, y: .514322877, z: 0}
+    p1: {x: .44921875, y: .123697884, z: 0}
+    uv0: {x: 0, y: .734375, z: 0}
+    uv1: {x: .1328125, y: .6171875, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .44921875
+    channel: 0
+  - p0: {x: 0, y: .514322877, z: 0}
+    p1: {x: .455729157, y: .123697884, z: 0}
+    uv0: {x: .7109375, y: .880859375, z: 0}
+    uv1: {x: .84765625, y: .763671875, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .455729157
+    channel: 0
+  - p0: {x: 0, y: .514322877, z: 0}
+    p1: {x: .234375, y: .123697884, z: 0}
+    uv0: {x: .330078125, y: .615234375, z: 0}
+    uv1: {x: .400390625, y: .498046875, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .234375
+    channel: 0
+  - p0: {x: -.00651041651, y: .514322877, z: 0}
+    p1: {x: .358072907, y: .123697884, z: 0}
+    uv0: {x: 0, y: .615234375, z: 0}
+    uv1: {x: .109375, y: .498046875, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .358072907
+    channel: 0
+  - p0: {x: 0, y: .514322877, z: 0}
+    p1: {x: .475260407, y: .123697884, z: 0}
+    uv0: {x: 0, y: .853515625, z: 0}
+    uv1: {x: .142578125, y: .736328125, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .46875
+    channel: 0
+  - p0: {x: 0, y: .514322877, z: 0}
+    p1: {x: .364583313, y: .123697884, z: 0}
+    uv0: {x: .111328125, y: .615234375, z: 0}
+    uv1: {x: .220703125, y: .498046875, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .358072907
+    channel: 0
+  - p0: {x: 0, y: .514322877, z: 0}
+    p1: {x: .501302063, y: .123697884, z: 0}
+    uv0: {x: .6015625, y: 1, z: 0}
+    uv1: {x: .751953125, y: .8828125, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .501302063
+    channel: 0
+  - p0: {x: 0, y: .514322877, z: 0}
+    p1: {x: .46875, y: .123697884, z: 0}
+    uv0: {x: .14453125, y: .853515625, z: 0}
+    uv1: {x: .28515625, y: .736328125, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .46875
+    channel: 0
+  - p0: {x: .00651041651, y: .514322877, z: 0}
+    p1: {x: .436197907, y: .123697884, z: 0}
+    uv0: {x: .134765625, y: .734375, z: 0}
+    uv1: {x: .263671875, y: .6171875, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .442708313
+    channel: 0
+  - p0: {x: .00651041651, y: .514322877, z: 0}
+    p1: {x: .384114563, y: .123697884, z: 0}
+    uv0: {x: .865234375, y: .76171875, z: 0}
+    uv1: {x: .978515625, y: .64453125, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .390625
+    channel: 0
+  - p0: {x: .00651041651, y: .514322877, z: 0}
+    p1: {x: .436197907, y: .032552056, z: 0}
+    uv0: {x: 0, y: 1, z: 0}
+    uv1: {x: .12890625, y: .85546875, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .442708313
+    channel: 0
+  - p0: {x: .00651041651, y: .514322877, z: 0}
+    p1: {x: .442708313, y: .11718747, z: 0}
+    uv0: {x: .1875, y: 1, z: 0}
+    uv1: {x: .318359375, y: .880859375, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .442708313
+    channel: 0
+  - p0: {x: .00651041651, y: .514322877, z: 0}
+    p1: {x: .358072907, y: .123697884, z: 0}
+    uv0: {x: .22265625, y: .615234375, z: 0}
+    uv1: {x: .328125, y: .498046875, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .364583313
+    channel: 0
+  - p0: {x: -.00651041651, y: .514322877, z: 0}
+    p1: {x: .403645813, y: .123697884, z: 0}
+    uv0: {x: .265625, y: .734375, z: 0}
+    uv1: {x: .388671875, y: .6171875, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .397135407
+    channel: 0
+  - p0: {x: 0, y: .514322877, z: 0}
+    p1: {x: .462239563, y: .123697884, z: 0}
+    uv0: {x: .4296875, y: .880859375, z: 0}
+    uv1: {x: .568359375, y: .763671875, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .462239563
+    channel: 0
+  - p0: {x: -.00651041651, y: .514322877, z: 0}
+    p1: {x: .462239563, y: .123697884, z: 0}
+    uv0: {x: .287109375, y: .87890625, z: 0}
+    uv1: {x: .427734375, y: .76171875, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .455729157
+    channel: 0
+  - p0: {x: -.00651041651, y: .514322877, z: 0}
+    p1: {x: .592447877, y: .123697884, z: 0}
+    uv0: {x: .419921875, y: 1, z: 0}
+    uv1: {x: .599609375, y: .8828125, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .592447877
+    channel: 0
+  - p0: {x: -.00651041651, y: .514322877, z: 0}
+    p1: {x: .455729157, y: .123697884, z: 0}
+    uv0: {x: .5703125, y: .880859375, z: 0}
+    uv1: {x: .708984375, y: .763671875, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .44921875
+    channel: 0
+  - p0: {x: -.00651041651, y: .514322877, z: 0}
+    p1: {x: .44921875, y: .123697884, z: 0}
+    uv0: {x: .849609375, y: .880859375, z: 0}
+    uv1: {x: .986328125, y: .763671875, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .442708313
+    channel: 0
+  - p0: {x: 0, y: .514322877, z: 0}
+    p1: {x: .390625, y: .123697884, z: 0}
+    uv0: {x: .630859375, y: .76171875, z: 0}
+    uv1: {x: .748046875, y: .64453125, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .390625
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: .403645813, z: 0}
+    p1: {x: .319010407, y: .123697907, z: 0}
+    uv0: {x: .71875, y: .419921875, z: 0}
+    uv1: {x: .814453125, y: .3359375, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .319010407
+    channel: 0
+  - p0: {x: -.00651041651, y: .5078125, z: 0}
+    p1: {x: .3515625, y: .123697929, z: 0}
+    uv0: {x: 0, y: .49609375, z: 0}
+    uv1: {x: .107421875, y: .380859375, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .358072907
+    channel: 0
+  - p0: {x: .00651041651, y: .403645813, z: 0}
+    p1: {x: .29296875, y: .123697907, z: 0}
+    uv0: {x: .08984375, y: .29296875, z: 0}
+    uv1: {x: .17578125, y: .208984375, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .299479157
+    channel: 0
+  - p0: {x: .00651041651, y: .5078125, z: 0}
+    p1: {x: .37109375, y: .123697929, z: 0}
+    uv0: {x: .78515625, y: .642578125, z: 0}
+    uv1: {x: .89453125, y: .52734375, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .37109375
+    channel: 0
+  - p0: {x: .00651041651, y: .403645813, z: 0}
+    p1: {x: .299479157, y: .123697907, z: 0}
+    uv0: {x: .91015625, y: .439453125, z: 0}
+    uv1: {x: .998046875, y: .35546875, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .299479157
+    channel: 0
+  - p0: {x: 0, y: .514322877, z: 0}
+    p1: {x: .247395828, y: .123697884, z: 0}
+    uv0: {x: .900390625, y: 1, z: 0}
+    uv1: {x: .974609375, y: .8828125, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .240885407
+    channel: 0
+  - p0: {x: 0, y: .423177063, z: 0}
+    p1: {x: .325520813, y: .0260416567, z: 0}
+    uv0: {x: .3203125, y: 1, z: 0}
+    uv1: {x: .41796875, y: .880859375, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .325520813
+    channel: 0
+  - p0: {x: 0, y: .5078125, z: 0}
+    p1: {x: .384114563, y: .123697929, z: 0}
+    uv0: {x: .66796875, y: .642578125, z: 0}
+    uv1: {x: .783203125, y: .52734375, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .384114563
+    channel: 0
+  - p0: {x: 0, y: .5078125, z: 0}
+    p1: {x: .201822907, y: .123697929, z: 0}
+    uv0: {x: .109375, y: .49609375, z: 0}
+    uv1: {x: .169921875, y: .380859375, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .201822907
+    channel: 0
+  - p0: {x: -.00651041651, y: .5078125, z: 0}
+    p1: {x: .17578125, y: .0260416791, z: 0}
+    uv0: {x: .130859375, y: 1, z: 0}
+    uv1: {x: .185546875, y: .85546875, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .208333328
+    channel: 0
+  - p0: {x: 0, y: .5078125, z: 0}
+    p1: {x: .423177063, y: .123697929, z: 0}
+    uv0: {x: .5390625, y: .642578125, z: 0}
+    uv1: {x: .666015625, y: .52734375, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .416666657
+    channel: 0
+  - p0: {x: 0, y: .5078125, z: 0}
+    p1: {x: .208333328, y: .123697929, z: 0}
+    uv0: {x: .896484375, y: .642578125, z: 0}
+    uv1: {x: .958984375, y: .52734375, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .208333328
+    channel: 0
+  - p0: {x: 0, y: .403645813, z: 0}
+    p1: {x: .546875, y: .123697907, z: 0}
+    uv0: {x: 0, y: .37890625, z: 0}
+    uv1: {x: .1640625, y: .294921875, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .546875
+    channel: 0
+  - p0: {x: 0, y: .403645813, z: 0}
+    p1: {x: .377604157, y: .123697907, z: 0}
+    uv0: {x: .283203125, y: .380859375, z: 0}
+    uv1: {x: .396484375, y: .296875, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .377604157
+    channel: 0
+  - p0: {x: .00651041651, y: .403645813, z: 0}
+    p1: {x: .33203125, y: .123697907, z: 0}
+    uv0: {x: .619140625, y: .412109375, z: 0}
+    uv1: {x: .716796875, y: .328125, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .338541657
+    channel: 0
+  - p0: {x: 0, y: .403645813, z: 0}
+    p1: {x: .37109375, y: .0325520709, z: 0}
+    uv0: {x: .447265625, y: .5234375, z: 0}
+    uv1: {x: .55859375, y: .412109375, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .377604157
+    channel: 0
+  - p0: {x: .00651041651, y: .403645813, z: 0}
+    p1: {x: .364583313, y: .0260416567, z: 0}
+    uv0: {x: .337890625, y: .49609375, z: 0}
+    uv1: {x: .4453125, y: .3828125, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .364583313
+    channel: 0
+  - p0: {x: 0, y: .403645813, z: 0}
+    p1: {x: .305989563, y: .123697907, z: 0}
+    uv0: {x: .81640625, y: .439453125, z: 0}
+    uv1: {x: .908203125, y: .35546875, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .305989563
+    channel: 0
+  - p0: {x: .00651041651, y: .403645813, z: 0}
+    p1: {x: .260416657, y: .123697907, z: 0}
+    uv0: {x: .177734375, y: .29296875, z: 0}
+    uv1: {x: .25390625, y: .208984375, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .2734375
+    channel: 0
+  - p0: {x: -.00651041651, y: .46875, z: 0}
+    p1: {x: .260416657, y: .123697922, z: 0}
+    uv0: {x: .671875, y: .525390625, z: 0}
+    uv1: {x: .751953125, y: .421875, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .260416657
+    channel: 0
+  - p0: {x: 0, y: .403645813, z: 0}
+    p1: {x: .384114563, y: .123697907, z: 0}
+    uv0: {x: .166015625, y: .37890625, z: 0}
+    uv1: {x: .28125, y: .294921875, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .384114563
+    channel: 0
+  - p0: {x: -.00651041651, y: .403645813, z: 0}
+    p1: {x: .364583313, y: .123697907, z: 0}
+    uv0: {x: .3984375, y: .380859375, z: 0}
+    uv1: {x: .509765625, y: .296875, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .358072907
+    channel: 0
+  - p0: {x: -.00651041651, y: .403645813, z: 0}
+    p1: {x: .56640625, y: .123697907, z: 0}
+    uv0: {x: .75390625, y: .525390625, z: 0}
+    uv1: {x: .92578125, y: .44140625, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .559895813
+    channel: 0
+  - p0: {x: -.00651041651, y: .403645813, z: 0}
+    p1: {x: .345052063, y: .123697907, z: 0}
+    uv0: {x: .51171875, y: .41015625, z: 0}
+    uv1: {x: .6171875, y: .326171875, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .338541657
+    channel: 0
+  - p0: {x: -.00651041651, y: .403645813, z: 0}
+    p1: {x: .358072907, y: .0325520709, z: 0}
+    uv0: {x: .560546875, y: .525390625, z: 0}
+    uv1: {x: .669921875, y: .4140625, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .3515625
+    channel: 0
+  - p0: {x: 0, y: .403645813, z: 0}
+    p1: {x: .29296875, y: .123697907, z: 0}
+    uv0: {x: 0, y: .29296875, z: 0}
+    uv1: {x: .087890625, y: .208984375, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .29296875
+    channel: 0
+  charDictKeys: 
+  charDictValues: []
+  fontPlatforms: []
+  fontPlatformGUIDs: []
+  hasPlatformData: 0
+  managedFont: 0
+  needMaterialInstance: 0
+  isPacked: 0
+  premultipliedAlpha: 0
+  spriteCollection: {fileID: 0}
+  useDictionary: 0
+  kerning:
+  - c0: 121
+    c1: 115
+    amount: -.013020833
+  - c0: 121
+    c1: 111
+    amount: -.01953125
+  - c0: 121
+    c1: 108
+    amount: -.013020833
+  - c0: 121
+    c1: 103
+    amount: -.013020833
+  - c0: 121
+    c1: 101
+    amount: -.01953125
+  - c0: 121
+    c1: 99
+    amount: -.01953125
+  - c0: 121
+    c1: 97
+    amount: -.013020833
+  - c0: 121
+    c1: 46
+    amount: -.0325520821
+  - c0: 120
+    c1: 113
+    amount: -.00651041651
+  - c0: 120
+    c1: 111
+    amount: -.00651041651
+  - c0: 120
+    c1: 101
+    amount: -.00651041651
+  - c0: 120
+    c1: 99
+    amount: -.00651041651
+  - c0: 119
+    c1: 115
+    amount: -.00651041651
+  - c0: 119
+    c1: 111
+    amount: -.01953125
+  - c0: 119
+    c1: 108
+    amount: -.013020833
+  - c0: 119
+    c1: 103
+    amount: -.00651041651
+  - c0: 119
+    c1: 101
+    amount: -.013020833
+  - c0: 119
+    c1: 99
+    amount: -.01953125
+  - c0: 119
+    c1: 97
+    amount: -.013020833
+  - c0: 119
+    c1: 46
+    amount: -.0390625
+  - c0: 118
+    c1: 115
+    amount: -.013020833
+  - c0: 118
+    c1: 111
+    amount: -.01953125
+  - c0: 118
+    c1: 108
+    amount: -.013020833
+  - c0: 118
+    c1: 103
+    amount: -.00651041651
+  - c0: 118
+    c1: 101
+    amount: -.01953125
+  - c0: 118
+    c1: 99
+    amount: -.01953125
+  - c0: 118
+    c1: 97
+    amount: -.013020833
+  - c0: 118
+    c1: 46
+    amount: -.0390625
+  - c0: 116
+    c1: 101
+    amount: -.00651041651
+  - c0: 116
+    c1: 83
+    amount: .00651041651
+  - c0: 114
+    c1: 122
+    amount: .00651041651
+  - c0: 114
+    c1: 121
+    amount: .00651041651
+  - c0: 114
+    c1: 119
+    amount: .00651041651
+  - c0: 114
+    c1: 118
+    amount: .00651041651
+  - c0: 114
+    c1: 116
+    amount: .00651041651
+  - c0: 114
+    c1: 115
+    amount: -.00651041651
+  - c0: 114
+    c1: 112
+    amount: .00651041651
+  - c0: 114
+    c1: 111
+    amount: -.00651041651
+  - c0: 114
+    c1: 110
+    amount: .00651041651
+  - c0: 114
+    c1: 108
+    amount: -.01953125
+  - c0: 114
+    c1: 107
+    amount: -.01953125
+  - c0: 114
+    c1: 106
+    amount: .00651041651
+  - c0: 114
+    c1: 105
+    amount: .00651041651
+  - c0: 114
+    c1: 104
+    amount: -.013020833
+  - c0: 114
+    c1: 102
+    amount: .00651041651
+  - c0: 114
+    c1: 101
+    amount: -.00651041651
+  - c0: 114
+    c1: 100
+    amount: -.00651041651
+  - c0: 114
+    c1: 99
+    amount: -.00651041651
+  - c0: 114
+    c1: 97
+    amount: -.00651041651
+  - c0: 114
+    c1: 46
+    amount: -.0390625
+  - c0: 113
+    c1: 117
+    amount: -.00651041651
+  - c0: 112
+    c1: 121
+    amount: -.00651041651
+  - c0: 111
+    c1: 121
+    amount: -.013020833
+  - c0: 111
+    c1: 120
+    amount: -.013020833
+  - c0: 111
+    c1: 119
+    amount: -.00651041651
+  - c0: 111
+    c1: 118
+    amount: -.013020833
+  - c0: 111
+    c1: 116
+    amount: -.00651041651
+  - c0: 111
+    c1: 84
+    amount: -.0325520821
+  - c0: 110
+    c1: 121
+    amount: -.00651041651
+  - c0: 110
+    c1: 119
+    amount: -.00651041651
+  - c0: 65
+    c1: 46
+    amount: .013020833
+  - c0: 65
+    c1: 67
+    amount: -.026041666
+  - c0: 65
+    c1: 71
+    amount: -.026041666
+  - c0: 65
+    c1: 79
+    amount: -.01953125
+  - c0: 110
+    c1: 118
+    amount: -.013020833
+  - c0: 65
+    c1: 84
+    amount: -.026041666
+  - c0: 65
+    c1: 85
+    amount: -.026041666
+  - c0: 65
+    c1: 86
+    amount: -.0520833321
+  - c0: 65
+    c1: 87
+    amount: -.0455729142
+  - c0: 65
+    c1: 89
+    amount: -.0390625
+  - c0: 65
+    c1: 97
+    amount: .00651041651
+  - c0: 65
+    c1: 98
+    amount: -.00651041651
+  - c0: 65
+    c1: 99
+    amount: -.00651041651
+  - c0: 65
+    c1: 100
+    amount: -.00651041651
+  - c0: 65
+    c1: 101
+    amount: -.00651041651
+  - c0: 65
+    c1: 103
+    amount: .00651041651
+  - c0: 65
+    c1: 111
+    amount: -.00651041651
+  - c0: 65
+    c1: 113
+    amount: -.00651041651
+  - c0: 65
+    c1: 116
+    amount: -.013020833
+  - c0: 65
+    c1: 117
+    amount: -.013020833
+  - c0: 65
+    c1: 118
+    amount: -.0325520821
+  - c0: 65
+    c1: 119
+    amount: -.0390625
+  - c0: 65
+    c1: 121
+    amount: -.00651041651
+  - c0: 110
+    c1: 112
+    amount: -.00651041651
+  - c0: 110
+    c1: 84
+    amount: -.01953125
+  - c0: 109
+    c1: 121
+    amount: -.00651041651
+  - c0: 109
+    c1: 119
+    amount: -.00651041651
+  - c0: 109
+    c1: 118
+    amount: -.00651041651
+  - c0: 108
+    c1: 121
+    amount: -.00651041651
+  - c0: 108
+    c1: 118
+    amount: -.00651041651
+  - c0: 107
+    c1: 117
+    amount: -.01953125
+  - c0: 107
+    c1: 111
+    amount: -.00651041651
+  - c0: 107
+    c1: 103
+    amount: .00651041651
+  - c0: 107
+    c1: 101
+    amount: -.013020833
+  - c0: 66
+    c1: 65
+    amount: -.00651041651
+  - c0: 105
+    c1: 84
+    amount: -.00651041651
+  - c0: 66
+    c1: 86
+    amount: -.013020833
+  - c0: 66
+    c1: 87
+    amount: -.013020833
+  - c0: 66
+    c1: 89
+    amount: -.013020833
+  - c0: 104
+    c1: 121
+    amount: -.00651041651
+  - c0: 103
+    c1: 101
+    amount: -.00651041651
+  - c0: 102
+    c1: 115
+    amount: -.00651041651
+  - c0: 102
+    c1: 111
+    amount: -.00651041651
+  - c0: 102
+    c1: 108
+    amount: .00651041651
+  - c0: 102
+    c1: 105
+    amount: .00651041651
+  - c0: 102
+    c1: 101
+    amount: -.00651041651
+  - c0: 102
+    c1: 97
+    amount: -.00651041651
+  - c0: 101
+    c1: 121
+    amount: -.00651041651
+  - c0: 101
+    c1: 120
+    amount: -.00651041651
+  - c0: 101
+    c1: 119
+    amount: -.00651041651
+  - c0: 101
+    c1: 118
+    amount: -.00651041651
+  - c0: 67
+    c1: 65
+    amount: -.00651041651
+  - c0: 67
+    c1: 72
+    amount: .00651041651
+  - c0: 67
+    c1: 75
+    amount: .00651041651
+  - c0: 101
+    c1: 116
+    amount: -.00651041651
+  - c0: 99
+    c1: 107
+    amount: -.00651041651
+  - c0: 98
+    c1: 121
+    amount: -.00651041651
+  - c0: 98
+    c1: 118
+    amount: -.00651041651
+  - c0: 97
+    c1: 121
+    amount: -.013020833
+  - c0: 97
+    c1: 119
+    amount: -.013020833
+  - c0: 97
+    c1: 118
+    amount: -.013020833
+  - c0: 68
+    c1: 65
+    amount: -.026041666
+  - c0: 97
+    c1: 106
+    amount: -.00651041651
+  - c0: 90
+    c1: 121
+    amount: -.013020833
+  - c0: 68
+    c1: 86
+    amount: -.013020833
+  - c0: 68
+    c1: 87
+    amount: -.013020833
+  - c0: 68
+    c1: 88
+    amount: -.013020833
+  - c0: 68
+    c1: 89
+    amount: -.01953125
+  - c0: 90
+    c1: 118
+    amount: -.01953125
+  - c0: 89
+    c1: 118
+    amount: -.0455729142
+  - c0: 89
+    c1: 117
+    amount: -.0455729142
+  - c0: 89
+    c1: 112
+    amount: -.0520833321
+  - c0: 89
+    c1: 111
+    amount: -.0520833321
+  - c0: 89
+    c1: 105
+    amount: .00651041651
+  - c0: 89
+    c1: 103
+    amount: -.0455729142
+  - c0: 89
+    c1: 101
+    amount: -.0520833321
+  - c0: 70
+    c1: 46
+    amount: -.0325520821
+  - c0: 70
+    c1: 65
+    amount: -.0390625
+  - c0: 70
+    c1: 74
+    amount: -.026041666
+  - c0: 70
+    c1: 79
+    amount: -.00651041651
+  - c0: 70
+    c1: 97
+    amount: -.026041666
+  - c0: 70
+    c1: 101
+    amount: -.026041666
+  - c0: 70
+    c1: 105
+    amount: .00651041651
+  - c0: 70
+    c1: 106
+    amount: .00651041651
+  - c0: 70
+    c1: 111
+    amount: -.026041666
+  - c0: 70
+    c1: 114
+    amount: -.013020833
+  - c0: 70
+    c1: 117
+    amount: -.00651041651
+  - c0: 89
+    c1: 97
+    amount: -.0520833321
+  - c0: 89
+    c1: 84
+    amount: .00651041651
+  - c0: 89
+    c1: 83
+    amount: -.01953125
+  - c0: 89
+    c1: 79
+    amount: -.0325520821
+  - c0: 89
+    c1: 71
+    amount: -.026041666
+  - c0: 89
+    c1: 67
+    amount: -.0325520821
+  - c0: 89
+    c1: 65
+    amount: -.0455729142
+  - c0: 89
+    c1: 46
+    amount: -.0390625
+  - c0: 88
+    c1: 121
+    amount: -.00651041651
+  - c0: 88
+    c1: 117
+    amount: -.013020833
+  - c0: 88
+    c1: 111
+    amount: -.00651041651
+  - c0: 88
+    c1: 101
+    amount: -.00651041651
+  - c0: 88
+    c1: 97
+    amount: .00651041651
+  - c0: 88
+    c1: 79
+    amount: -.01953125
+  - c0: 88
+    c1: 67
+    amount: -.01953125
+  - c0: 87
+    c1: 121
+    amount: -.013020833
+  - c0: 71
+    c1: 65
+    amount: -.0325520821
+  - c0: 71
+    c1: 84
+    amount: -.013020833
+  - c0: 71
+    c1: 86
+    amount: -.013020833
+  - c0: 71
+    c1: 87
+    amount: -.01953125
+  - c0: 71
+    c1: 89
+    amount: -.01953125
+  - c0: 87
+    c1: 117
+    amount: -.01953125
+  - c0: 87
+    c1: 114
+    amount: -.01953125
+  - c0: 87
+    c1: 111
+    amount: -.0325520821
+  - c0: 87
+    c1: 105
+    amount: .00651041651
+  - c0: 87
+    c1: 103
+    amount: -.026041666
+  - c0: 87
+    c1: 101
+    amount: -.026041666
+  - c0: 87
+    c1: 97
+    amount: -.026041666
+  - c0: 74
+    c1: 65
+    amount: -.026041666
+  - c0: 87
+    c1: 84
+    amount: .00651041651
+  - c0: 87
+    c1: 83
+    amount: -.013020833
+  - c0: 87
+    c1: 79
+    amount: -.01953125
+  - c0: 87
+    c1: 71
+    amount: -.01953125
+  - c0: 75
+    c1: 67
+    amount: -.01953125
+  - c0: 75
+    c1: 71
+    amount: -.01953125
+  - c0: 75
+    c1: 79
+    amount: -.01953125
+  - c0: 87
+    c1: 67
+    amount: -.01953125
+  - c0: 75
+    c1: 84
+    amount: -.01953125
+  - c0: 75
+    c1: 97
+    amount: .00651041651
+  - c0: 75
+    c1: 101
+    amount: -.00651041651
+  - c0: 75
+    c1: 111
+    amount: -.00651041651
+  - c0: 75
+    c1: 117
+    amount: -.013020833
+  - c0: 75
+    c1: 121
+    amount: -.00651041651
+  - c0: 87
+    c1: 65
+    amount: -.0455729142
+  - c0: 87
+    c1: 46
+    amount: -.0325520821
+  - c0: 86
+    c1: 121
+    amount: -.0325520821
+  - c0: 86
+    c1: 117
+    amount: -.0325520821
+  - c0: 86
+    c1: 114
+    amount: -.0390625
+  - c0: 86
+    c1: 111
+    amount: -.0520833321
+  - c0: 86
+    c1: 105
+    amount: .00651041651
+  - c0: 86
+    c1: 103
+    amount: -.0455729142
+  - c0: 86
+    c1: 101
+    amount: -.0520833321
+  - c0: 86
+    c1: 97
+    amount: -.0520833321
+  - c0: 76
+    c1: 65
+    amount: .00651041651
+  - c0: 86
+    c1: 84
+    amount: .00651041651
+  - c0: 86
+    c1: 83
+    amount: -.013020833
+  - c0: 86
+    c1: 79
+    amount: -.026041666
+  - c0: 76
+    c1: 83
+    amount: .00651041651
+  - c0: 76
+    c1: 84
+    amount: -.026041666
+  - c0: 76
+    c1: 85
+    amount: -.00651041651
+  - c0: 76
+    c1: 86
+    amount: -.0390625
+  - c0: 76
+    c1: 87
+    amount: -.0325520821
+  - c0: 76
+    c1: 89
+    amount: -.0390625
+  - c0: 76
+    c1: 117
+    amount: -.00651041651
+  - c0: 76
+    c1: 121
+    amount: -.013020833
+  - c0: 86
+    c1: 71
+    amount: -.026041666
+  - c0: 86
+    c1: 67
+    amount: -.026041666
+  - c0: 86
+    c1: 65
+    amount: -.05859375
+  - c0: 86
+    c1: 46
+    amount: -.05859375
+  - c0: 85
+    c1: 114
+    amount: -.00651041651
+  - c0: 85
+    c1: 112
+    amount: -.013020833
+  - c0: 85
+    c1: 110
+    amount: -.00651041651
+  - c0: 85
+    c1: 109
+    amount: -.00651041651
+  - c0: 85
+    c1: 65
+    amount: -.026041666
+  - c0: 85
+    c1: 46
+    amount: -.00651041651
+  - c0: 84
+    c1: 121
+    amount: .00651041651
+  - c0: 84
+    c1: 118
+    amount: .00651041651
+  - c0: 84
+    c1: 115
+    amount: -.01953125
+  - c0: 84
+    c1: 114
+    amount: -.00651041651
+  - c0: 84
+    c1: 111
+    amount: -.0390625
+  - c0: 84
+    c1: 103
+    amount: -.026041666
+  - c0: 78
+    c1: 65
+    amount: -.013020833
+  - c0: 78
+    c1: 67
+    amount: -.00651041651
+  - c0: 78
+    c1: 71
+    amount: -.00651041651
+  - c0: 78
+    c1: 79
+    amount: -.00651041651
+  - c0: 78
+    c1: 97
+    amount: -.00651041651
+  - c0: 78
+    c1: 101
+    amount: -.00651041651
+  - c0: 78
+    c1: 111
+    amount: -.00651041651
+  - c0: 78
+    c1: 117
+    amount: -.013020833
+  - c0: 84
+    c1: 101
+    amount: -.0325520821
+  - c0: 84
+    c1: 99
+    amount: -.0325520821
+  - c0: 84
+    c1: 97
+    amount: -.0325520821
+  - c0: 84
+    c1: 89
+    amount: .00651041651
+  - c0: 84
+    c1: 87
+    amount: .00651041651
+  - c0: 84
+    c1: 86
+    amount: .00651041651
+  - c0: 84
+    c1: 74
+    amount: -.0325520821
+  - c0: 84
+    c1: 71
+    amount: -.00651041651
+  - c0: 84
+    c1: 67
+    amount: -.00651041651
+  - c0: 84
+    c1: 65
+    amount: -.0325520821
+  - c0: 84
+    c1: 46
+    amount: -.0325520821
+  - c0: 83
+    c1: 89
+    amount: -.00651041651
+  - c0: 83
+    c1: 84
+    amount: .00651041651
+  - c0: 83
+    c1: 65
+    amount: -.00651041651
+  - c0: 82
+    c1: 121
+    amount: -.00651041651
+  - c0: 82
+    c1: 117
+    amount: -.013020833
+  - c0: 79
+    c1: 65
+    amount: -.026041666
+  - c0: 79
+    c1: 84
+    amount: -.00651041651
+  - c0: 79
+    c1: 86
+    amount: -.01953125
+  - c0: 79
+    c1: 87
+    amount: -.01953125
+  - c0: 79
+    c1: 88
+    amount: -.013020833
+  - c0: 79
+    c1: 89
+    amount: -.0325520821
+  - c0: 82
+    c1: 111
+    amount: -.00651041651
+  - c0: 82
+    c1: 101
+    amount: -.00651041651
+  - c0: 82
+    c1: 89
+    amount: -.026041666
+  - c0: 82
+    c1: 87
+    amount: -.026041666
+  - c0: 82
+    c1: 86
+    amount: -.026041666
+  - c0: 82
+    c1: 85
+    amount: -.013020833
+  - c0: 80
+    c1: 46
+    amount: -.0390625
+  - c0: 80
+    c1: 65
+    amount: -.0455729142
+  - c0: 80
+    c1: 74
+    amount: -.026041666
+  - c0: 80
+    c1: 97
+    amount: -.013020833
+  - c0: 80
+    c1: 101
+    amount: -.013020833
+  - c0: 80
+    c1: 111
+    amount: -.013020833
+  - c0: 82
+    c1: 84
+    amount: -.01953125
+  - c0: 82
+    c1: 79
+    amount: -.013020833
+  - c0: 82
+    c1: 71
+    amount: -.013020833
+  - c0: 82
+    c1: 67
+    amount: -.013020833
+  largestWidth: .592447877
+  material: {fileID: 2100000, guid: c1515a22c5252be4496e798d727457bf, type: 2}
+  gradientTexture: {fileID: 0}
+  textureGradients: 0
+  gradientCount: 1
+  texelSize: {x: .00651041651, y: .00651041651}
+  invOrthoSize: .200000003
+  halfTargetHeight: 768
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1
+  m_IsExploded: 1

@@ -1,0 +1,325 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400000}
+  - 114: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: Outlines
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d546f34a90531a14eaba82a43b05b86b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 3
+  materialIdsValid: 1
+  needMaterialInstance: 0
+  spriteDefinitions:
+  - name: FireOutline
+    boundsData:
+    - {x: 0, y: -.00651037693, z: 0}
+    - {x: 1.06770825, y: 1.2109375, z: 0}
+    untrimmedBoundsData:
+    - {x: 0, y: -.00651037693, z: 0}
+    - {x: 1.06770825, y: 1.2109375, z: 0}
+    texelSize: {x: .013020833, y: .013020833}
+    positions:
+    - {x: -.533854127, y: -.611979127, z: 0}
+    - {x: .533854127, y: -.611979127, z: 0}
+    - {x: -.533854127, y: .598958373, z: 0}
+    - {x: .533854127, y: .598958373, z: 0}
+    normals: []
+    tangents: []
+    uvs:
+    - {x: .00390820298, y: .494142592}
+    - {x: .164060548, y: .494142592}
+    - {x: .00390820298, y: .675779283}
+    - {x: .164060548, y: .675779283}
+    indices: 000000000300000001000000020000000300000000000000
+    material: {fileID: 2100000, guid: 76c8e0a213844254898bc0708c625016, type: 2}
+    materialId: 0
+    sourceTextureGUID: f50f78375c8396c42ba0fb12f626e822
+    extractRegion: 0
+    regionX: 0
+    regionY: 0
+    regionW: 0
+    regionH: 0
+    flipped: 0
+    complexGeometry: 0
+    physicsEngine: 0
+    colliderType: 1
+    colliderVertices: []
+    colliderIndicesFwd: 
+    colliderIndicesBack: 
+    colliderConvex: 0
+    colliderSmoothSphereCollisions: 0
+    polygonCollider2D: []
+    edgeCollider2D: []
+    attachPoints: []
+  - name: fountainOutline
+    boundsData:
+    - {x: .00651037693, y: -.00651043653, z: 0}
+    - {x: 2.04427075, y: 1.78385413, z: 0}
+    untrimmedBoundsData:
+    - {x: .00651037693, y: -.00651043653, z: 0}
+    - {x: 2.04427075, y: 1.78385413, z: 0}
+    texelSize: {x: .013020833, y: .013020833}
+    positions:
+    - {x: -1.015625, y: -.8984375, z: 0}
+    - {x: 1.02864575, y: -.8984375, z: 0}
+    - {x: -1.015625, y: .885416627, z: 0}
+    - {x: 1.02864575, y: .885416627, z: 0}
+    normals: []
+    tangents: []
+    uvs:
+    - {x: .00390820298, y: .712892592}
+    - {x: .310544908, y: .712892592}
+    - {x: .00390820298, y: .980466783}
+    - {x: .310544908, y: .980466783}
+    indices: 000000000300000001000000020000000300000000000000
+    material: {fileID: 2100000, guid: 76c8e0a213844254898bc0708c625016, type: 2}
+    materialId: 0
+    sourceTextureGUID: 072ff00da625e664ab131057ecaddaa1
+    extractRegion: 0
+    regionX: 0
+    regionY: 0
+    regionW: 0
+    regionH: 0
+    flipped: 0
+    complexGeometry: 0
+    physicsEngine: 0
+    colliderType: 1
+    colliderVertices: []
+    colliderIndicesFwd: 
+    colliderIndicesBack: 
+    colliderConvex: 0
+    colliderSmoothSphereCollisions: 0
+    polygonCollider2D: []
+    edgeCollider2D: []
+    attachPoints: []
+  - name: OilOutline
+    boundsData:
+    - {x: .00455725193, y: 2.98023224e-08, z: 0}
+    - {x: 2.251302, y: .856770754, z: 0}
+    untrimmedBoundsData:
+    - {x: .00455725193, y: 2.98023224e-08, z: 0}
+    - {x: 2.251302, y: .856770754, z: 0}
+    texelSize: {x: .00911458302, y: .00911458302}
+    positions:
+    - {x: -1.12109375, y: -.428385347, z: 0}
+    - {x: 1.13020825, y: -.428385347, z: 0}
+    - {x: -1.12109375, y: .428385407, z: 0}
+    - {x: 1.13020825, y: .428385407, z: 0}
+    normals: []
+    tangents: []
+    uvs:
+    - {x: .607423842, y: .00390820298}
+    - {x: .607423842, y: .486326158}
+    - {x: .791013658, y: .00390820298}
+    - {x: .791013658, y: .486326158}
+    indices: 000000000300000001000000020000000300000000000000
+    material: {fileID: 2100000, guid: 76c8e0a213844254898bc0708c625016, type: 2}
+    materialId: 0
+    sourceTextureGUID: 0786237bf9faf0a4b9228d15aa3381e3
+    extractRegion: 0
+    regionX: 0
+    regionY: 0
+    regionW: 0
+    regionH: 0
+    flipped: 1
+    complexGeometry: 0
+    physicsEngine: 0
+    colliderType: 1
+    colliderVertices: []
+    colliderIndicesFwd: 
+    colliderIndicesBack: 
+    colliderConvex: 0
+    colliderSmoothSphereCollisions: 0
+    polygonCollider2D: []
+    edgeCollider2D: []
+    attachPoints: []
+  - name: GravityOutline
+    boundsData:
+    - {x: .00651049614, y: -.0195312425, z: 0}
+    - {x: 2.9296875, y: .533854127, z: 0}
+    untrimmedBoundsData:
+    - {x: .00651049614, y: -.00651040673, z: 0}
+    - {x: 2.9296875, y: .559895813, z: 0}
+    texelSize: {x: .013020833, y: .013020833}
+    positions:
+    - {x: -1.45833325, y: -.286458313, z: 0}
+    - {x: 1.47135425, y: -.286458313, z: 0}
+    - {x: -1.45833325, y: .247395828, z: 0}
+    - {x: 1.47135425, y: .247395828, z: 0}
+    normals: []
+    tangents: []
+    uvs:
+    - {x: .798830092, y: .00390820298}
+    - {x: .798830092, y: .443357408}
+    - {x: .878904283, y: .00390820298}
+    - {x: .878904283, y: .443357408}
+    indices: 000000000300000001000000020000000300000000000000
+    material: {fileID: 2100000, guid: 76c8e0a213844254898bc0708c625016, type: 2}
+    materialId: 0
+    sourceTextureGUID: 4f7bffaf45f2cd84e84c3c6f88739009
+    extractRegion: 0
+    regionX: 0
+    regionY: 0
+    regionW: 0
+    regionH: 0
+    flipped: 1
+    complexGeometry: 0
+    physicsEngine: 0
+    colliderType: 1
+    colliderVertices: []
+    colliderIndicesFwd: 
+    colliderIndicesBack: 
+    colliderConvex: 0
+    colliderSmoothSphereCollisions: 0
+    polygonCollider2D: []
+    edgeCollider2D: []
+    attachPoints: []
+  - name: BatteryOutline
+    boundsData:
+    - {x: .00651040673, y: 0, z: 0}
+    - {x: .768229127, y: 1.69270825, z: 0}
+    untrimmedBoundsData:
+    - {x: .00651040673, y: 0, z: 0}
+    - {x: .768229127, y: 1.69270825, z: 0}
+    texelSize: {x: .013020833, y: .013020833}
+    positions:
+    - {x: -.377604157, y: -.846354127, z: 0}
+    - {x: .39062497, y: -.846354127, z: 0}
+    - {x: -.377604157, y: .846354127, z: 0}
+    - {x: .39062497, y: .846354127, z: 0}
+    normals: []
+    tangents: []
+    uvs:
+    - {x: .798830092, y: .451173842}
+    - {x: .914060533, y: .451173842}
+    - {x: .798830092, y: .705076158}
+    - {x: .914060533, y: .705076158}
+    indices: 000000000300000001000000020000000300000000000000
+    material: {fileID: 2100000, guid: 76c8e0a213844254898bc0708c625016, type: 2}
+    materialId: 0
+    sourceTextureGUID: 9c4cb2edd7c0de04cbf674685cca0a2c
+    extractRegion: 0
+    regionX: 0
+    regionY: 0
+    regionW: 0
+    regionH: 0
+    flipped: 0
+    complexGeometry: 0
+    physicsEngine: 0
+    colliderType: 1
+    colliderVertices: []
+    colliderIndicesFwd: 
+    colliderIndicesBack: 
+    colliderConvex: 0
+    colliderSmoothSphereCollisions: 0
+    polygonCollider2D: []
+    edgeCollider2D: []
+    attachPoints: []
+  - name: TunnelOutline
+    boundsData:
+    - {x: .00651037693, y: -.00651049614, z: 0}
+    - {x: 3.97135401, y: 2.01822901, z: 0}
+    untrimmedBoundsData:
+    - {x: .00651037693, y: -.00651049614, z: 0}
+    - {x: 3.97135401, y: 2.01822901, z: 0}
+    texelSize: {x: .013020833, y: .013020833}
+    positions:
+    - {x: -1.97916663, y: -1.015625, z: 0}
+    - {x: 1.99218738, y: -1.015625, z: 0}
+    - {x: -1.97916663, y: 1.00260401, z: 0}
+    - {x: 1.99218738, y: 1.00260401, z: 0}
+    normals: []
+    tangents: []
+    uvs:
+    - {x: .00390820298, y: .00390820298}
+    - {x: .599607408, y: .00390820298}
+    - {x: .00390820298, y: .306638658}
+    - {x: .599607408, y: .306638658}
+    indices: 000000000300000001000000020000000300000000000000
+    material: {fileID: 2100000, guid: 76c8e0a213844254898bc0708c625016, type: 2}
+    materialId: 0
+    sourceTextureGUID: b3a6700523efe2c4db19fbc4d2df9fb8
+    extractRegion: 0
+    regionX: 0
+    regionY: 0
+    regionW: 0
+    regionH: 0
+    flipped: 0
+    complexGeometry: 0
+    physicsEngine: 0
+    colliderType: 1
+    colliderVertices: []
+    colliderIndicesFwd: 
+    colliderIndicesBack: 
+    colliderConvex: 0
+    colliderSmoothSphereCollisions: 0
+    polygonCollider2D: []
+    edgeCollider2D: []
+    attachPoints: []
+  premultipliedAlpha: 0
+  material: {fileID: 0}
+  materials:
+  - {fileID: 2100000, guid: 76c8e0a213844254898bc0708c625016, type: 2}
+  textures:
+  - {fileID: 2800000, guid: 685c670b50714274faa9304c24cb6940, type: 3}
+  pngTextures: []
+  textureFilterMode: 1
+  textureMipMaps: 0
+  allowMultipleAtlases: 0
+  spriteCollectionGUID: 63355c8f03d76834cb288868932b6cd2
+  spriteCollectionName: Outlines
+  assetName: 
+  loadable: 0
+  invOrthoSize: .200000003
+  halfTargetHeight: 384
+  buildKey: 1981682053
+  dataGuid: 9a539a1fc19945f478f78bdc7bc1eb73
+  managedSpriteCollection: 0
+  hasPlatformData: 0
+  spriteCollectionPlatforms: []
+  spriteCollectionPlatformGUIDs: []
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1
+  m_IsExploded: 1

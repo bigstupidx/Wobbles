@@ -1,0 +1,6 @@
+world1:0
+world2:11
+world3:25
+world4:39
+world5:53
+world6:67
